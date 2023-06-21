@@ -1,4 +1,4 @@
-Kubernetes Agenda for Day 1:
+Kubernetes Agenda for Day 1
 
 - Microservices vs Monolithic
 - Why Kubernetes
